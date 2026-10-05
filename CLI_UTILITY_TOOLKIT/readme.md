@@ -18,6 +18,6 @@ A simple, interactive command-line interface (CLI) toolkit written in C. This to
 
 ```text
 .
-├── main.c        # Main program source code containing logic and functions
+├── project_1.c        # Main program source code containing logic and functions
 ├── README.md     # Project documentation
 └── .gitignore    # Configured to ignore compiled binary executables (.exe)
